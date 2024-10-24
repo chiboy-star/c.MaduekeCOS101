@@ -1,3 +1,3 @@
 fn main(){
-    println("welcome to csc 101!")
+    println!("welcome to csc 101!")
 }
