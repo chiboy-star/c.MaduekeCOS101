@@ -9,10 +9,11 @@ fn main() {
     io::stdin().read_line(&mut employee_experience).expect("Failed to read input");
     let employee_experience = employee_experience.trim().to_lowercase();
 
+
     println!("How old are you: ");
     let mut input2 =String::new();
     io::stdin().read_line(&mut input2).expect("Failed to read input");
-    let age:i32 = input2.trim().parse().expect("Failed to input");
+    let age:u32 = input2.trim().parse().expect("Failed to input");
 
    // println!("this is age {} this is ex{}",age,employee_experience);
    if age >= 40 && employee_experience == "y"{
