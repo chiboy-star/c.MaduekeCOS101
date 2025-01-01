@@ -1,0 +1,11 @@
+C:\Users\CHIGOZIE\Downloads\c.maduekecos101\week-8\project_2\target\debug\deps\libwhich-0782c95dad72816e.rmeta: C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs
+
+C:\Users\CHIGOZIE\Downloads\c.maduekecos101\week-8\project_2\target\debug\deps\libwhich-0782c95dad72816e.rlib: C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs
+
+C:\Users\CHIGOZIE\Downloads\c.maduekecos101\week-8\project_2\target\debug\deps\which-0782c95dad72816e.d: C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs
+
+C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs:
+C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs:
+C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs:
+C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs:
+C:\Users\CHIGOZIE\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs:
